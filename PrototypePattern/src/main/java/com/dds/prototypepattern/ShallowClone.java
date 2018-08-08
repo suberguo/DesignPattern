@@ -1,4 +1,4 @@
-package com.dds.gupao.prototypepattern;
+package com.dds.prototypepattern;
 
 public class ShallowClone {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.dds.gupao.prototypepattern;
+package com.dds.prototypepattern;
 
 import java.io.Serializable;
 
