@@ -1,7 +1,7 @@
-package com.dds.gupao.factorypattern.fun;
+package com.dds.factorypattern.fun;
 
-import com.dds.gupao.factorypattern.Mobile;
-import com.dds.gupao.factorypattern.NokiaMobile;
+import com.dds.factorypattern.Mobile;
+import com.dds.factorypattern.NokiaMobile;
 
 public class NokiaFactory implements MobileFactory {
 

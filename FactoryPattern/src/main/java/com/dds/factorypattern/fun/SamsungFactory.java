@@ -1,7 +1,7 @@
-package com.dds.gupao.factorypattern.fun;
+package com.dds.factorypattern.fun;
 
-import com.dds.gupao.factorypattern.Mobile;
-import com.dds.gupao.factorypattern.SamsungMobile;
+import com.dds.factorypattern.SamsungMobile;
+import com.dds.factorypattern.Mobile;
 
 public class SamsungFactory implements MobileFactory{
     @Override

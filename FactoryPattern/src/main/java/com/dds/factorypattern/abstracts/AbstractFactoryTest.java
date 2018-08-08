@@ -1,4 +1,4 @@
-package com.dds.gupao.factorypattern.abstracts;
+package com.dds.factorypattern.abstracts;
 
 public class AbstractFactoryTest {
     public static void main(String[] args) {

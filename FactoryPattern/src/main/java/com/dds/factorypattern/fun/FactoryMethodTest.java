@@ -1,4 +1,4 @@
-package com.dds.gupao.factorypattern.fun;
+package com.dds.factorypattern.fun;
 
 public class FactoryMethodTest {
     public static void main(String[] args) {

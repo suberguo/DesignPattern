@@ -1,4 +1,4 @@
-package com.dds.gupao.factorypattern;
+package com.dds.factorypattern;
 
 public class AppleMobile implements Mobile {
     @Override

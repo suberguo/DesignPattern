@@ -1,5 +1,6 @@
-package com.dds.gupao.factorypattern.simple;
+package com.dds.factorypattern.simple;
 
+import com.dds.factorypattern.*;
 import com.dds.gupao.factorypattern.*;
 
 public class SimpleFactory {

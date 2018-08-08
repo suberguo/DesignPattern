@@ -1,9 +1,9 @@
-package com.dds.gupao.factorypattern.abstracts;
+package com.dds.factorypattern.abstracts;
 
-import com.dds.gupao.factorypattern.AppleMobile;
-import com.dds.gupao.factorypattern.Mobile;
-import com.dds.gupao.factorypattern.NokiaMobile;
-import com.dds.gupao.factorypattern.SamsungMobile;
+import com.dds.factorypattern.AppleMobile;
+import com.dds.factorypattern.Mobile;
+import com.dds.factorypattern.NokiaMobile;
+import com.dds.factorypattern.SamsungMobile;
 
 public class MobileFactory extends AbstractFactory {
 

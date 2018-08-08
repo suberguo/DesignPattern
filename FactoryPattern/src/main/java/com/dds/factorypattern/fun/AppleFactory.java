@@ -1,7 +1,7 @@
-package com.dds.gupao.factorypattern.fun;
+package com.dds.factorypattern.fun;
 
-import com.dds.gupao.factorypattern.AppleMobile;
-import com.dds.gupao.factorypattern.Mobile;
+import com.dds.factorypattern.AppleMobile;
+import com.dds.factorypattern.Mobile;
 
 public class AppleFactory implements MobileFactory {
 

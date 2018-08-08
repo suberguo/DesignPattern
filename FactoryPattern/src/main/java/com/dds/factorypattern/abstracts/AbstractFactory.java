@@ -1,6 +1,6 @@
-package com.dds.gupao.factorypattern.abstracts;
+package com.dds.factorypattern.abstracts;
 
-import com.dds.gupao.factorypattern.Mobile;
+import com.dds.factorypattern.Mobile;
 
 public abstract class AbstractFactory {
 

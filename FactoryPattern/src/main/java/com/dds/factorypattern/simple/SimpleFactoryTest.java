@@ -1,4 +1,4 @@
-package com.dds.gupao.factorypattern.simple;
+package com.dds.factorypattern.simple;
 
 public class SimpleFactoryTest {
     public static void main(String[] args) {
