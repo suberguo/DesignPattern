@@ -16,6 +16,7 @@ public class CglibDynamicProxyTest {
         buyerProxy.buy();
 
         System.out.println(buyerProxy);
+        System.out.println("test");
 
         byte[] bytes = ProxyGenerator.generateProxyClass("cglibproxy.class",new Class<?>[]{buyerProxy.getClass()});
         try {
